@@ -52,7 +52,7 @@ dependencies = [
     "x-wr-timezone==2.0.1",
     "tzlocal==5.4.4",
     "tzdata==2026.3",
-    "python-dateutil==2.9.0.post0",
+    "python-dateutil==3.0.0",
     "six==1.17.0",
 ]
 
